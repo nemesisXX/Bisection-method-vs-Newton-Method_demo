@@ -1,0 +1,3 @@
+# Bisection-method-vs-Newton-Method_demo
+This file contains two demo which is Bisection demo and Newton demo. These two approaches are utilized to evaluate the root of a function. Based on this purpose, I also draw the dynamic graph of how these two methods work and the eventual accuracy of two methods. In general, since newton method uses quadratic approximation, we would like to us Newton's Method
+There is still a Secant Method which has the same purpose as above, but I didn't show it here, since the only difference between Newton and Secant is the coefficient need the first and second derivatives.
